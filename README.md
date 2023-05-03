@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Responsive Layout</title>
-<style>
-  
-  /********** Base styles **********/
+/********** Base styles **********/
 * {
   box-sizing: border-box;
 }
